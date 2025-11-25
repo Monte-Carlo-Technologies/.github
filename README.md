@@ -1,3 +1,6 @@
+
+<img width="1920" height="1020" alt="464430319_441351132309038_1985956799660738474_n" src="https://github.com/user-attachments/assets/475dfc68-ae9d-4e44-a53b-10e05b352fc4" />
+
 # Monte Carlo Technologies
 
 Welcome to the official GitHub organization of **Monte Carlo Technologies**, formerly known as **Monte Carlo Web Graphics Studio**. We are a world-class web design and AI automation agency dedicated to building smarter websites and delivering intelligent automation solutions.
